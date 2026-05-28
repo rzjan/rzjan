@@ -1,5 +1,5 @@
 # Jorge Aníbal Rodríguez
-Senior Fullstack Developer · .NET & C# · Clean Architecture · Banking & Fintech · Posadas, Argentina
+Senior Fullstack Developer | .NET CORE & C# | Angular | React - Clean Architecture · Banking & Fintech · Posadas, Argentina
 
 ---
 
