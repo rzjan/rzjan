@@ -39,10 +39,10 @@ Desarrollador Fullstack Senior con más de 8 años de experiencia en entornos co
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1e1e2e?style=flat&logo=github&logoColor=white)
-![Open Code](https://img.shields.io/badge/Open_Code-1e1e2e?style=flat&logo=github&logoColor=white)
-![Cluade_Code](https://img.shields.io/badge/Claude_Code-1e1e2e?style=flat&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
+![Claude%20Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claudecode&logoColor=white)
 
 ---
 
