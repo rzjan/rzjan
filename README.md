@@ -41,6 +41,8 @@ Desarrollador Fullstack Senior con más de 8 años de experiencia en entornos co
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1e1e2e?style=flat&logo=github&logoColor=white)
+![Open Code](https://img.shields.io/badge/Open_Code-1e1e2e?style=flat&logo=github&logoColor=white)
+![Cluade_Code](https://img.shields.io/badge/Claude_Code-1e1e2e?style=flat&logo=github&logoColor=white)
 
 ---
 
