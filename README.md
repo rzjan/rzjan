@@ -5,7 +5,7 @@ Desarrollador Fullstack Senior | .NET Core & C# | Angular | React | · Clean Arc
 
 ## Sobre mí
 
-Desarrollador Fullstack Senior con más de 13 años de experiencia en entornos corporativos exigentes, principalmente en el sector financiero y público. Diseño y evoluciono sistemas backend sobre Clean Architecture, DDD y Microservicios — priorizando siempre el desacoplamiento, la testeabilidad y la mantenibilidad a largo plazo.
+Desarrollador Fullstack Senior con más de 8 años de experiencia en entornos corporativos exigentes, principalmente en el sector financiero y público. Diseño y evoluciono sistemas backend sobre Clean Architecture, DDD y Microservicios — priorizando siempre el desacoplamiento, la testeabilidad y la mantenibilidad a largo plazo.
 
 ---
 
